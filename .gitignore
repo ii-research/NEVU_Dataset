@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+env/
+venv/
+ENV/
+VENV/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
+
+# Database
+*.sqlite3
+*.db
+
+# Node
+node_modules/
